@@ -14,11 +14,11 @@
     margin: 0;
 }
 @media screen and (max-width:480px) {
-    .footer{
-      max-width: 25rem;
-      display: flex;
-      flex-wrap: wrap;
-      margin-left: 1rem;
+    .footer {
+        display: flex;
+        
+        margin: 0 auto;
+        width: 100%;
     }
     
 }
